@@ -1,6 +1,12 @@
-# 💫 About Me:
-Hey there! 👋 I’m Poorva Soni, a 3rd year Computer Science (AI) student and a Frontend Developer who loves crafting smooth,<br> user-friendly web interfaces with modern technologies.<br><br>
+# 💫 About Me
 
+Hey there! 👋 I'm **Poorva Soni**, a **4th-year B.Tech Computer Science (AI)** student passionate about building user-friendly web applications and solving real-world problems with data.
+
+💻 I'm currently strengthening my skills in **SQL, Python, Excel, and Data Analytics** while continuing to improve my **Frontend Development** expertise.
+
+🚀 I'm actively building projects, practicing Data Structures & Algorithms, and growing my GitHub portfolio to prepare for software engineering and data-focused roles.
+
+🌱 Always eager to learn new technologies, collaborate on exciting projects, and continuously improve as a developer.
 
 ## 💻 Tech Stack
 
@@ -14,12 +20,15 @@ Hey there! 👋 I’m Poorva Soni, a 3rd year Computer Science (AI) student and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Poorva-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Poorva-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorva-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=poorva-git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=poorva-git&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poorva-git&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Poorva-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=poorva-git&icon=5&color=6)
