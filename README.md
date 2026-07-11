@@ -23,8 +23,8 @@ Hey there! 👋 I'm **Poorva Soni**, a **4th-year B.Tech Computer Science (AI)**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorva-git&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorva-git&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorva-git&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorva-git&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Poorva-git&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Poorva-git&theme=tokyonight)
