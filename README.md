@@ -8,8 +8,6 @@ Hey there! 👋 I'm **Poorva Soni**, a **4th-year B.Tech Computer Science (AI)**
 
 🌱 Always eager to learn, collaborate, and grow as a developer.
 
----
-
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
